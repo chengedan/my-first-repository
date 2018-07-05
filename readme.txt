@@ -5,3 +5,4 @@ jQuery
 bootstrap
 react.js
 git
+vue
