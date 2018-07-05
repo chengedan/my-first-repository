@@ -7,3 +7,5 @@ react.js
 git
 vue
 angular
+SEO
+node.js
