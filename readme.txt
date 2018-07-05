@@ -6,3 +6,4 @@ bootstrap
 react.js
 git
 vue
+angular
