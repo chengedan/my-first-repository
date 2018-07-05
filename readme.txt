@@ -7,3 +7,4 @@ react.js
 git
 vue
 SEO
+angular.js
